@@ -6,12 +6,12 @@ public class Art extends PApplet
 {
 	public void setup()
 	{
+		  
 		
 	}
 	
 	public void settings()
 	{
-		
 		
 	}
 	
