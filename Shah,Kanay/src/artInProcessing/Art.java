@@ -12,6 +12,7 @@ public class Art extends PApplet
 	public void settings()
 	{
 		
+		
 	}
 	
 	public void draw()
