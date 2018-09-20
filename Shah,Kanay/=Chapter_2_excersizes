@@ -1,0 +1,89 @@
+2.2
+Multiple choice
+5.  A c d 
+Predict output
+3.  I am the incredible computing machine and i will amaze you.
+4.  Be Careful.
+ This may be 
+a trick question
+
+Short Ans
+5. The commands print out the answer or text to the user, which is a class.
+
+Programing Challenge
+3.  
+Public Class Challenge 
+{
+  	Public static void main(String[] args)
+ 	{
+ 	System.out.print(“ Kanay Shah”);
+
+
+ 	System.out.print(“\n 5 Roberts Drive Mt Lakes, NJ 07046”)
+
+
+ 	System.out.print(“\n 2014001251”)
+
+
+ 	System.out.println(No college major)
+ 	}
+}
+
+
+2.3
+MC
+2.  D
+17. True
+18.false
+
+
+
+SA
+3. It allows for programs to be used without specific prior knowledge of the program.
+6. It tells the computer the variable and allow for it to use the variable
+7. Someone who looks at the program may not know what the variable means, so labeling what the variable means allows for others to understand the program and its use.
+
+2.4
+MC
+4. B c     
+AW 1-5
+Public Class AlgWrkBnch
+{
+ 	double temp, weight, age
+}
+
+2. int months=2, years=3, days=0,
+3. int a,b,c
+   b=a+2
+   a=b*4
+   b=a/3.14
+   a=b-8
+   c=K
+   
+4 A. Result is 10
+   B. result is 4
+   C. result is 2
+   D. result is 6
+   E. result is 1
+
+5 a 3.287E6
+   B -9.7865E12
+  C  7.65491E-3
+2.5
+MC
+21. True
+
+AW
+7
+int speed=20, time=10;
+distance=speed*time
+System.out.println distance
+8
+int force=172.5, area=27.5
+
+
+
+
+
+
+
