@@ -18,6 +18,7 @@ public class Art extends PApplet
 	public void draw()
 	{
 		rect(17,25,33,33);
+		//ignore
 	}
 }
 	
